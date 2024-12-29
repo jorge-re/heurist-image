@@ -23,7 +23,7 @@ Create a `.env` file in your project root with the following variables:
 
 ```bash
 HEURIST_API_KEY=your_api_key
-HEURIST_SEQUENCER_URL=https://api.heurist.ai/sequencer
+HEURIST_SEQUENCER_URL=http://sequencer.heurist.xyz
 ```
 
 ## Usage
